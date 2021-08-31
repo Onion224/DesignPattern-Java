@@ -1,0 +1,6 @@
+INFO main 创建型.工厂方法模式.demo2.ConcreteProduct.CouponCommodityService - 请求参数[优惠券] => uId：10001 commodityId：EGM1023938910232121323432 bizId：791098764902132 extMap：null
+INFO main 创建型.工厂方法模式.demo2.ConcreteProduct.CouponCommodityService - 测试结果[优惠券]：{"code":"0000","info":"发放成功"}
+INFO main 创建型.工厂方法模式.demo2.ConcreteProduct.GoodsCommodityService - 请求参数[优惠券] => uId：10001 commodityId：9820198721311 bizId：1023000020112221113 extMap：{"consigneeUserName":"谢飞机","consigneeUserAddress":"吉林省.长春市.双阳区.XX街道.檀溪苑小区.#18-2109","consigneeUserPhone":"15200292123"}
+INFO main 创建型.工厂方法模式.demo2.ConcreteProduct.GoodsCommodityService - 测试结果[优惠券]：true
+INFO main 创建型.工厂方法模式.demo2.ConcreteProduct.CardCommodityService - 请求参数[爱奇艺兑换卡] => uId：10001 commodityId：AQY1xjkUodl8LO975GdfrYUio bizId：null extMap：null
+INFO main 创建型.工厂方法模式.demo2.ConcreteProduct.CardCommodityService - 测试结果[爱奇艺兑换卡]：success
