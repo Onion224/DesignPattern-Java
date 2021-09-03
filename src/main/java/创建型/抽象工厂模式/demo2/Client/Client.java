@@ -1,11 +1,11 @@
-package 创建型.抽象工厂模式.demo2;
+package 创建型.抽象工厂模式.demo2.Client;
 
-import 创建型.抽象工厂模式.demo2.CacheService;
-import 创建型.抽象工厂模式.demo2.JDKProxy;
-import 创建型.抽象工厂模式.demo2.EGMCacheAdapter;
-import 创建型.抽象工厂模式.demo2.IIRCacheAdapter;
-import 创建型.抽象工厂模式.demo2.CacheServiceImpl;
 import org.junit.Test;
+import 创建型.抽象工厂模式.demo2.ConcreteProduct.CacheServiceImpl;
+import 创建型.抽象工厂模式.demo2.ConcreteFactory.EGMCacheAdapter;
+import 创建型.抽象工厂模式.demo2.ConcreteFactory.IIRCacheAdapter;
+import 创建型.抽象工厂模式.demo2.AbstractFactory.JDKProxy;
+import 创建型.抽象工厂模式.demo2.ProductA.CacheService;
 
 public class Client {
 

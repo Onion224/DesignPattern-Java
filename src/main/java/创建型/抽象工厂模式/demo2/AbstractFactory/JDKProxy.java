@@ -1,4 +1,4 @@
-package 创建型.抽象工厂模式.demo2;
+package 创建型.抽象工厂模式.demo2.AbstractFactory;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Proxy;

@@ -1,4 +1,4 @@
-package 创建型.抽象工厂模式.demo2;
+package 创建型.抽象工厂模式.demo2.matter;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

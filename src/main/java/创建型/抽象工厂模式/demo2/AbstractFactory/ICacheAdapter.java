@@ -1,4 +1,4 @@
-package 创建型.抽象工厂模式.demo2;
+package 创建型.抽象工厂模式.demo2.AbstractFactory;
 
 import java.util.concurrent.TimeUnit;
 //这个类的主要作⽤是让所有集群的提供⽅，能在统⼀的⽅法名称下进⾏操作。也方便后续的拓展。

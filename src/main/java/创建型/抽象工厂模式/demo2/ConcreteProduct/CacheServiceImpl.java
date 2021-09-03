@@ -1,5 +1,7 @@
-package 创建型.抽象工厂模式.demo2;
-import java.util.concurrent.TimeUnit;
+package 创建型.抽象工厂模式.demo2.ConcreteProduct;
+
+import 创建型.抽象工厂模式.demo2.ProductA.CacheService;
+import 创建型.抽象工厂模式.demo2.matter.RedisUtils;
 
 import java.util.concurrent.TimeUnit;
 

@@ -1,4 +1,4 @@
-package 创建型.抽象工厂模式.demo2;
+package 创建型.抽象工厂模式.demo2.ProductA;
 
 import java.util.concurrent.TimeUnit;
 

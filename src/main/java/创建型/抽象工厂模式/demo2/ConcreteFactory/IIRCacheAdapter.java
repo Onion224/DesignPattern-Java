@@ -1,5 +1,8 @@
-package 创建型.抽象工厂模式.demo2;
+package 创建型.抽象工厂模式.demo2.ConcreteFactory;
 
+
+import 创建型.抽象工厂模式.demo2.AbstractFactory.ICacheAdapter;
+import 创建型.抽象工厂模式.demo2.matter.IIR;
 
 import java.util.concurrent.TimeUnit;
 
