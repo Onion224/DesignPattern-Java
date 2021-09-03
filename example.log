@@ -4,3 +4,9 @@ INFO main 创建型.工厂方法模式.demo2.ConcreteProduct.GoodsCommodityServi
 INFO main 创建型.工厂方法模式.demo2.ConcreteProduct.GoodsCommodityService - 测试结果[优惠券]：true
 INFO main 创建型.工厂方法模式.demo2.ConcreteProduct.CardCommodityService - 请求参数[爱奇艺兑换卡] => uId：10001 commodityId：AQY1xjkUodl8LO975GdfrYUio bizId：null extMap：null
 INFO main 创建型.工厂方法模式.demo2.ConcreteProduct.CardCommodityService - 测试结果[爱奇艺兑换卡]：success
+INFO main 创建型.抽象工厂模式.demo2.EGM - EGM写入数据 key：user_name_01 val：小傅哥
+INFO main 创建型.抽象工厂模式.demo2.EGM - EGM获取数据 key：user_name_01
+INFO main 创建型.抽象工厂模式.demo2.EGM - EGM写入数据 key：user_name_01 val：小傅哥
+INFO main 创建型.抽象工厂模式.demo2.EGM - EGM获取数据 key：user_name_01
+INFO main 创建型.抽象工厂模式.demo2.IIR - IIR写入数据 key：user_name_01 val：小傅哥
+INFO main 创建型.抽象工厂模式.demo2.IIR - IIR获取数据 key：user_name_01
